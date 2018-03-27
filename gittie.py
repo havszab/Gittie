@@ -9,3 +9,6 @@ def add():
     second_num = input(float('Enter a second number: '))
     print(first_num + second_num)
 
+def shout():
+    print("KEVÉS A KÁVÉ!!!")
+
